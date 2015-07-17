@@ -1,0 +1,38 @@
+eeschema (25-Oct-2014 BZR 4029)-stable  >> Creation date: dim 28 jun 2015 21:52:53 CEST
+#Cmp ( order = Reference ) (with SubCmp)
+| C1         100nF       
+| C2         1uF         
+| C3         100nF       
+| C4         1uF         
+| C5         100nF       
+| C6         100nF       
+| P1         CONN_13X2   
+| P2         CONN_2      
+| P3         CONN_2      
+| P4         CONN_4_GROVE
+| R1         4.7K        
+| R2         4.7K        
+| R3         10K         
+| R4         10K         
+| U1         TCA9517A    
+#End Cmp
+
+#Cmp ( order = Value ) (with SubCmp)
+| 100nF        C1        Loc /(X=44.450 mm, Y=64.770 mm)
+| 100nF        C3        Loc /(X=66.040 mm, Y=64.770 mm)
+| 100nF        C5        Loc /(X=154.940 mm, Y=106.680 mm)
+| 100nF        C6        Loc /(X=170.180 mm, Y=106.680 mm)
+| 1uF          C2        Loc /(X=54.610 mm, Y=64.770 mm)
+| 1uF          C4        Loc /(X=76.200 mm, Y=64.770 mm)
+| CONN_13X2    P1        Loc /(X=50.800 mm, Y=111.760 mm)
+| CONN_2       P2        Loc /(X=119.380 mm, Y=115.570 mm)
+| CONN_2       P3        Loc /(X=137.160 mm, Y=115.570 mm)
+| CONN_4_GROVE P4        Loc /(X=266.700 mm, Y=104.140 mm)
+| 4.7K         R1        Loc /(X=110.490 mm, Y=102.870 mm)
+| 4.7K         R2        Loc /(X=128.270 mm, Y=102.870 mm)
+| 10K          R3        Loc /(X=195.580 mm, Y=113.030 mm)
+| 10K          R4        Loc /(X=201.930 mm, Y=113.030 mm)
+| TCA9517A     U1        Loc /(X=163.830 mm, Y=124.460 mm)
+#End Cmp
+
+#End List
